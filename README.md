@@ -8,6 +8,7 @@ to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
+[![Build Status](https://dev.azure.com/Debasisp0535/CalcPipe/_apis/build/status/debasispattanaik.calculator?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/Debasisp0535/CalcPipe/_build/latest?definitionId=5&branchName=refs%2Fpull%2F2%2Fmerge)
 
 To build, simply:
 
